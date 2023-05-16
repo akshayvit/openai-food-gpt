@@ -1,0 +1,4 @@
+pyvenv.cfg
+.env
+activate
+__pycache__
